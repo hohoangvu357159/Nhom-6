@@ -7,3 +7,4 @@ tran ngoc quan
 >>>>>>> 4967d2a0ff2930cd3aeee3ecb0fae9d15bcbdfe8
 alo alo alo alo
 thay doi 1
+thay đổi 2
