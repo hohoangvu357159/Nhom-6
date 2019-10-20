@@ -15,4 +15,8 @@ B
 =======
 A
 >>>>>>> origin/master
+<<<<<<< HEAD
 sua 2
+=======
+sua 1
+>>>>>>> origin/master
