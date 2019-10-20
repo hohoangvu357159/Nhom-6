@@ -10,4 +10,8 @@ thay doi 1
 thay đổi 2
 thay doi 3
 test pull
+<<<<<<< HEAD
 B
+=======
+A
+>>>>>>> origin/master
